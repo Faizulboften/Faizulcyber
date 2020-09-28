@@ -15,10 +15,10 @@ echo "\n\e[0;31m]
 +=============UU====UU=======================+
 +              *//||\\*                       +
 +               ****                         +
-+ coded by : InYourG00D                      +
-+ Wa : 6281382406878                         +
++ coded by : Faizul boften                      +
++ Wa : 6282271426251                         +
 + Team : LNX#CREW S.T.C BUFT                 +
-+ GitHub : https://github.com/InYourG00D1    +
++ GitHub : https://github.com/Faizulcyber    +
 +============================================+\e[0m \r\n";
 echo "\n\e[0;34m]Note 62xxx jangan 08xxx";
 echo "\n\e[0;33m]Nomer: \e[0m \r\n";
